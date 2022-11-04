@@ -12,6 +12,7 @@
     "@expo/vector-icons": "^13.0.0",
     "@expo/webpack-config": "^0.17.0",
     "@use-expo/font": "^2.0.0",
+    "deprecated-react-native-prop-types": "^2.3.0",
     "expo": "~46.0.16",
     "expo-status-bar": "~1.4.0",
     "prop-types": "^15.8.1",
