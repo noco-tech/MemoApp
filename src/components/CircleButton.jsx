@@ -1,6 +1,6 @@
 import { View, StyleSheet } from 'react-native';
 import { string, shape } from 'prop-types';
-import { Feather } from '@expo/vector-icons';
+// import { Feather } from '@expo/vector-icons';
 import Icon from './Icon';
 
 export default function CircleButton(props) {
